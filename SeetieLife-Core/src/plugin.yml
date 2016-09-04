@@ -1,0 +1,12 @@
+name: Xentaria.de
+version: 0.1
+author: stonie1901
+website: http://www.xentaria.de/
+main: de.xentaria.core.Main
+depend: [Vault]
+
+commands:
+  cc:
+    description: Loescht den Chat
+  reload:
+    description: Reloaded den Server
